@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "amd",
+    "moduleResolution": "classic",
+    "outFile": "anime.js",
+    "strict": true /* Enable all strict type-checking options. */
+  }
+}
